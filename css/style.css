@@ -52,7 +52,3 @@ span {
     border: 1px dashed black;
     padding: 1.5rem;
 }
-
-span .d-none{
-    display: none;
-}

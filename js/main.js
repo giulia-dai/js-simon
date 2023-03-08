@@ -54,12 +54,6 @@ printArrayToScreen(simonSaid, showResult);
 
 //erase at screen showed numbers and show right numbers
 setTimeout(function () {
-
-    if (setTimeout == 30500) {
-        elementPara.classList.add("d-none");
-    } else {
-    }
-
     showResult.innerHTML = '';
 }, 30000)
 
